@@ -10,6 +10,10 @@ header:hover {
     background-image: url('overlay.jpg')
 }
 
+.overlay-img {
+    display: none;
+}
+
 .my-name {
     font-family: 'Century Gothic';
     color: white;
