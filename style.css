@@ -7,7 +7,7 @@ header {
 }
 
 header:hover {
-    background-image: url('overlay.jpg')
+    background-image: url('overlay-web.jpg')
 }
 
 .overlay-img {
